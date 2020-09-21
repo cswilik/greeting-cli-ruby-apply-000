@@ -5,4 +5,4 @@ def greeting(name)
 end 
 
 name = gets.strip
-"Hello #{name}. Its nice to meet you."
+puts "Hello #{name}. Its nice to meet you."
